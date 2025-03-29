@@ -1,6 +1,6 @@
 # WeatherChecker API
 
-Projekt realizujący instrukcję laboratoryjną nr 1 z przedmiotu "Zagrożenia bezpieczeństwa systemów".
+Projekt realizujący instrukcję laboratoryjną nr 1 
 
 ## Funkcje
 - Generowanie tokenów JWT
